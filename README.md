@@ -4,8 +4,8 @@ A study repository to record my evolution in React and Redux
 
 ## Topics
 
- * [JSX basics]()
+ * [JSX basics](https://github.com/patrickbrito95/JSX-Basics)
   
- * [Components & Props]()
+ * [Components & Props](https://github.com/patrickbrito95/Components-Props)
 
- * [Class]()
+ * [Class](https://github.com/patrickbrito95/Class)
