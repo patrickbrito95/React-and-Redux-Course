@@ -10,4 +10,4 @@ A study repository to record my evolution in React and Redux
 
  * [Class](https://github.com/patrickbrito95/Class)
 
- *[Forms, Input Events and API Requests](https://github.com/patrickbrito95/Forms-Events)
+ * [Forms, Input Events and API Requests](https://github.com/patrickbrito95/Forms-Events)
